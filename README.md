@@ -1,4 +1,4 @@
-# CS251: Data Analysis & Visualization
+# Data analysis & visualization projects
 
 This repository contains projects completed as part of Colby College’s CS251 course. The course emphasized practical data science techniques including exploratory data analysis, regression, classification, clustering, and dimensionality reduction using Python.
 
